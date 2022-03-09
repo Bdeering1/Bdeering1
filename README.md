@@ -1,6 +1,6 @@
 ### A little about me:
 
-Hey, I'm Bryn! A passionate full stack developer and honours Computer Science (co-op) major studying at the University of Guelph. I'm continuously working to improve on and expand on my repertoire of languages, technologies and frameworks as a developer.
+Hey, I'm Bryn! A passionate full stack developer and honours Computer Science (co-op) major studying at the University of Guelph. I'm continuously working to improve on and expand my repertoire of technical skills, languages, and frameworks!
 
 ### Here's what I've been up to lately:
 
