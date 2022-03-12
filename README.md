@@ -5,7 +5,7 @@ Hey, I'm Bryn! A passionate full stack developer and honours Computer Science (c
 ### Here's what I've been up to lately:
 
 - 💻 Working as a Co-op Software Developer position at Bastian Solutions
-- #️⃣ Learning to develop with C# and the .NET framework in an industry context
+- #️⃣ Learning to develop with C# and the .NET framework in a corporate environment
 - 👾 Improving my skills with NodeJS, Typescript, and React through various personal projects
 - 📊 Earning a Data Visualization Certification through Free Code Camp
 
