@@ -1,10 +1,10 @@
 ### A little about me:
 
-Hey, I'm Bryn! A passionate full stack developer and honours Computer Science (co-op) major studying at the University of Guelph. I'm continuously working to improve on my repertoire of technical skills, languages, and frameworks!
+Hey, I'm Bryn! A passionate developer and honours Computer Science (co-op) major studying at the University of Guelph. I have a variety of interests including scripting, software design, and data science. I'm continuously working to expand my knowledge and improve on my repertoire of technical skills!
 
 ### Here's what I've been up to lately:
 
-- 💻 Working as a Co-op Software Developer Bastian Solutions
+- 💻 Working as a Co-op Software Developer at Bastian Solutions
 - #️⃣ Learning to develop with C# and the .NET framework in a corporate environment
 - 👾 Improving my skills with NodeJS, Typescript, and React through various personal projects
 - 📊 Earning a Data Visualization Certification through Free Code Camp
