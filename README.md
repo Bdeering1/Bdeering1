@@ -1,6 +1,6 @@
 ### A little about me:
 
-Hey, I'm Bryn! A passionate developer and honours Computer Science (co-op) major studying at the University of Guelph. I have a variety of interests including software design, scripting, and data science.
+Hey, I'm Bryn! A passionate developer and honours Computer Science (co-op) major studying at the University of Guelph. I have a variety of interests including finance, software systems engineering, and full stack development.
 
 ### Here's what I've been up to lately:
 
