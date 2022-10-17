@@ -4,10 +4,9 @@ Hey, I'm Bryn! A passionate developer and honours Computer Science (co-op) major
 
 ### Here's what I've been up to lately:
 
-- 💻 Working as a Co-op Software Developer at Bastian Solutions
-- #️⃣ Learning to develop with C# and the .NET framework in a corporate environment
+- 💻 Studying Computer Science full time at the University of Guelph
+- 🌊 Reinforcing my proficiency with C through school projects
 - 👾 Improving my knowledge of Node and Typescript through personal projects
-- 📊 Earning a Data Visualization Certification through Free Code Camp
 
 
 <!--
