@@ -5,7 +5,7 @@ Hey, I'm Bryn! A passionate developer and honours Computer Science (co-op) major
 ### Here's what I've been up to lately:
 
 - 💻 Studying Computer Science full time at the University of Guelph
-- 🌊 Reinforcing my proficiency with C through school projects
+- 🌊 Reinforcing my proficiency with C and Python through school projects
 - 👾 Improving my knowledge of Node and Typescript through personal projects
 
 
