@@ -8,8 +8,6 @@ I'm a passionate developer and honours Computer Science (co-op) major studying a
 - 🌊 Reinforcing my proficiency with C and Python through school projects
 - 👾 Improving my knowledge of Node and Typescript through personal projects
   
-<br>
-  
 <h2 >My Tech Stack</h2>
 
 <p>
