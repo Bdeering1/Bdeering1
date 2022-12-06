@@ -8,9 +8,9 @@ I'm a passionate developer and honours Computer Science (co-op) major studying a
 - 🌊 Reinforcing my proficiency with C and Python through school projects
 - 👾 Improving my knowledge of Node and Typescript through personal projects
   
-<h2 align="center">My Tech Stack</h2>
+<h2>My Tech Stack</h2>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,java,python,ts,react,tailwind,html,css,nodejs,jest,redux,mongodb,git" />
   </a>
