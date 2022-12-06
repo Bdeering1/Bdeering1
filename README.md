@@ -2,9 +2,17 @@
 
 I'm a passionate developer and honours Computer Science (co-op) major studying at the University of Guelph. I have a variety of interests including finance, software systems engineering, and full stack development.
 
-<h2 align="center">My Tech Stack</h2>
+<h3>Here's what I've been up to lately</h3>
 
-<p align="center">
+- 💻 Studying Computer Science full time at the University of Guelph
+- 🌊 Reinforcing my proficiency with C and Python through school projects
+- 👾 Improving my knowledge of Node and Typescript through personal projects
+  
+<br>
+  
+<h2 >My Tech Stack</h2>
+
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,java,python,ts,react,tailwind,html,css,nodejs,jest,redux,mongodb,git" />
   </a>
