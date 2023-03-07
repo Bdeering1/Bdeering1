@@ -12,7 +12,7 @@ I'm a passionate developer and honours Computer Science (co-op) major studying a
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,python,ts,react,tailwind,html,css,nodejs,jest,redux,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,python,ts,react,tailwind,html,css,nodejs,jest,redux,mongodb,git,docker" />
   </a>
 </p>
 
