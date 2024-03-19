@@ -5,25 +5,13 @@ I'm a passionate developer and honours Computer Science (co-op) major studying a
 <h3>Here's what I've been up to lately</h3>
 
 - 💻 Studying Computer Science full time at the University of Guelph
-- 🌊 Reinforcing my proficiency with C and Python through school projects
-- 👾 Improving my knowledge of Node and Typescript through personal projects
+- 👾 Reinforcing my proficiency with C through school projects
+- 🦀 Maintaining two Rust based software packages on crates.io
   
-<h2>My Tech Stack</h2>
+<h3>Here are some languages and tools that I use</h3>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,python,ts,react,tailwind,html,css,nodejs,jest,redux,mongodb,git,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,rust,python,ts,nodejs,react,tailwind,html,css,mongodb,docker,git" />
   </a>
 </p>
-
-<!--
-### A little about me
-
-I'm a passionate developer and honours Computer Science (co-op) major studying at the University of Guelph. I have a variety of interests including finance, software systems engineering, and full stack development.
-
-### Here's what I've been up to lately
-
-- 💻 Studying Computer Science full time at the University of Guelph
-- 🌊 Reinforcing my proficiency with C and Python through school projects
-- 👾 Improving my knowledge of Node and Typescript through personal projects
--->
