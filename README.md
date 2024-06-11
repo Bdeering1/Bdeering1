@@ -12,6 +12,6 @@ I'm a passionate developer and honours Computer Science (co-op) major studying a
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,rust,python,ts,nodejs,react,tailwind,html,css,mongodb,docker,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,rust,python,ts,nodejs,react,tailwind,html,css,mongodb,docker,git" />
   </a>
 </p>
