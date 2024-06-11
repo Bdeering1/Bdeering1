@@ -8,10 +8,10 @@ I'm a passionate developer and honours Computer Science (co-op) major studying a
 - 👾 Reinforcing my proficiency with C through school projects
 - 🦀 Maintaining two Rust based software packages on crates.io
   
-<h3>Some languages and tools that I use</h3>
+<h3>Here are some languages and tools I'm proficient with</h3>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,rust,python,ts,nodejs,react,tailwind,html,css,mongodb,docker,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,rust,python,ts,nodejs,react,html,css,mongodb,docker,git,linux" />
   </a>
 </p>
