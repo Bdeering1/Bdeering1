@@ -1,11 +1,9 @@
-<h1 align="center">Hey, I'm Bryn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+Full-stack developer experienced in a variety of languages and frameworks, especially within the .NET and NodeJS ecosystems. Interests include finance, software systems engineering, and full stack development.
 
-I'm a passionate developer and honours Computer Science (co-op) major studying at the University of Guelph. I have a variety of interests including finance, software systems engineering, and full stack development.
+<h3>Here are some things I've been up to lately</h3>
 
-<h3>Here's what I've been up to lately</h3>
-
-- 💻 Studying Computer Science full time at the University of Guelph
-- 👾 Reinforcing my proficiency with C through school projects
+- 💻 Seeking a full-time position in software development
+- 👾 Honing my skills through various personal projects
 - 🦀 Maintaining two Rust based software packages on crates.io
   
 <h3>Here are some languages and tools I'm proficient with</h3>
