@@ -1,15 +1,17 @@
-Full-stack developer experienced in a variety of languages and frameworks, especially within the .NET and NodeJS ecosystems. Interests include finance, software systems engineering, and full stack development.
+Hey, I'm Bryn!
 
-<h4>Here are some of the things I've been up to lately:</h4>
+I'm an aspiring developer with experience across the full web development stack, and I'm also interested in developer tooling! I pride myself in being proficient with a variety of languages and frameworks, but I've worked most within the Rust, .NET, and NodeJS ecosystems.
 
-- 💻 Seeking a full-time position in software development
-- 👾 Honing my skills through various personal projects
-- 🦀 Maintaining two Rust based software packages on crates.io
-  
-<h4>Here are some languages and tools I'm proficient with:</h4>
-
+Languages I work with:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,rust,python,ts,nodejs,react,html,css,mongodb,docker,git,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,rust,python,js,ts,html,css" />
+  </a>
+</p>
+
+Frameworks and tools:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,wordpress,redux,sass,postgres,mongodb,neovim,docker,git,linux" />
   </a>
 </p>
