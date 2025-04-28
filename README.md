@@ -1,6 +1,6 @@
 Hey, I'm Bryn!
 
-I'm a developer with experience across the full development stack, and I also have an interest in developer tooling! I pride myself in being proficient with a variety of languages and frameworks, but I've worked most within the Rust, .NET, and NodeJS ecosystems.
+I'm a developer with experience across the full development stack, and an interest in developer tooling! I pride myself in being proficient with a variety of languages and frameworks, but I've worked most within the Rust, .NET, and NodeJS ecosystems.
 
 Languages I work with:
 <p>
