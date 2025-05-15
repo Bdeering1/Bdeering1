@@ -15,3 +15,6 @@ Frameworks and tools:
     <img src="https://skillicons.dev/icons?i=nodejs,react,wordpress,redux,sass,postgres,mongodb,neovim,docker,git,linux" />
   </a>
 </p>
+<br/>
+
+Please check out my [portfolio](bryn-deering.netlify.app) if you'd like to learn more about me.
