@@ -17,4 +17,4 @@ Frameworks and tools:
 </p>
 <br/>
 
-Please check out my [portfolio](bryn-deering.netlify.app) if you'd like to learn more about me.
+Please check out my [portfolio](https://bryn-deering.netlify.app) if you'd like to learn more about me.
